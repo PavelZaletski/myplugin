@@ -1,0 +1,25 @@
+{
+  "_npmVersion": "1.0.0",
+  "_requested": {
+    "escapedName": "babel-plugin-myplugin",
+    "name": "babel-plugin-myplugin",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "dependencies": {},
+  "description": "replace true by false",
+  "devDependencies": {},
+  "directories": {},
+  "keywords": [
+    "babel-plugin"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-flow-comments"
+  },
+  "scripts": {},
+  "version": "6.17.0"
+}
